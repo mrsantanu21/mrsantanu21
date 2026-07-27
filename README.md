@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd Year Computer Science Student<br>💻 Passionate about Programming, Algorithms, and AI<br> Artificial Intelligence & Software Development<br>Love learning new technologies and building projects<br>🌍 Aspiring to study and work internationally<br>
+🎓 3rd Year Computer Science Student<br>💻 Passionate about Programming, Algorithms, and AI<br> Artificial Intelligence & Software Development<br>Love learning new technologies and building projects<br>🌍 Aspiring to study and work internationally<br>
 
 
 ## 🌐 Socials:
